@@ -60,7 +60,7 @@
     border-radius: 30px;
     color: #fff;
     padding: 0 0 0 42px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.353);
   }
   
   i{
@@ -81,7 +81,7 @@
     height: 45px;
     outline: none;
     width: 100%;
-    background: rgba(225, 225, 225, 0.593);
+    background: rgba(225, 225, 225, 0.492);
     cursor: pointer;
     transition: 3s;
   }
